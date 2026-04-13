@@ -1,4 +1,4 @@
-# projeto-extensionista-LibrasTech-IA
+# Projeto-extensionista-LibrasTech-IA
 
 
 # ATIVIDADES EXTENSIONISTAS
