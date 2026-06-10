@@ -14,7 +14,7 @@ Proposta de Tema / Trabalho Final
 
 
 # Etapa:
-( X ) Validação da proposta
+( X ) Trabalho final
 
 
 # Título:
